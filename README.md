@@ -1,6 +1,9 @@
-# ChatGPT-Discord-Bot-System-Instructions
-A repository for fun system instructions for my [ChatGPT-Discord-Bot](https://github.com/ZeldaFan0225/ChatGPT-Discord-Bot)
-
+# ChatGPT-Discord-Bot-System-Instructions  
+A repository for fun system instructions for my [ChatGPT-Discord-Bot](https://github.com/ZeldaFan0225/ChatGPT-Discord-Bot)  
+  
+This repository is for fun and is not meant to be insulting anybody.  
+If you feel like anything in this repository is inappropriate feel free to open an issue and we will review it.  
+  
 ## LICENSE
 
 You are free to use any content in this repository.
